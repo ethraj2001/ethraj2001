@@ -1,4 +1,3 @@
-## Hi there 👋
 
 I'm excited to share my projects and collaborate with others in the tech and science communities. 
 
@@ -20,6 +19,3 @@ I'm excited to share my projects and collaborate with others in the tech and sci
   - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ethraj2001&layout=compact&theme=radical)
   - ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ethraj2001)
 
----
-
-Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to connect or collaborate.
