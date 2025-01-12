@@ -4,7 +4,7 @@ I'm excited to share my projects and collaborate with others in the tech and sci
 
 - **🔧 Currently working on:**
   - Quantum computing projects, including variational quantum eigensolvers (VQE) and circuit optimization.
-  - Interdisciplinary research combining chemistry, statistics, and DNA nanotechnology.
+  - Estimators for Electrochemical Impedance Spectroscopy in Predicting State-of-Charge (SoC) and State-of-Health (SoH)
   - Visualizations and analytical tools for scientific data.
 
 - **📧 How to reach me:**
