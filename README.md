@@ -5,7 +5,6 @@ I'm excited to share my projects and collaborate with others in the tech and sci
 - **🔧 Currently working on:**
   - Implementing Hybrid Quantum-Classical Algorithms using Multi-Objective Bayesian Optimization VQE 
   - Estimators for Electrochemical Impedance Spectroscopy in Predicting State-of-Charge (SoC) and State-of-Health (SoH)
-  - Visualizations and analytical tools for scientific data.
 
 - **📧 How to reach me:**
   - Email: ethanrajkumar2001@gmail.com
