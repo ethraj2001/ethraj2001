@@ -19,7 +19,7 @@ I'm excited to share my projects and collaborate with others in the tech and sci
 - **📊 GitHub Contributions:**
   - ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ethraj2001&show_icons=true&theme=radical)
   - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ethraj2001&layout=compact&theme=radical)
-  - ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ethraj2001)]
+  - ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ethraj2001)
 
 ---
 
