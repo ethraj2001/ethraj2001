@@ -2,7 +2,7 @@
 I'm excited to share my projects and collaborate with others in the tech and science communities. 
 
 - **🔧 Currently working on:**
-  - Implementing Hybrid Quantum-Classical Algorithms using Multi-Objective Bayesian Optimization VQE 
+  - Implementing Hybrid Quantum-Classical Algorithms using DVR-VQE
   - Estimators for Electrochemical Impedance Spectroscopy in Predicting State-of-Charge (SoC) and State-of-Health (SoH)
 
 - **📧 How to reach me:**
